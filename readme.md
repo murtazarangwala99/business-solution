@@ -17,7 +17,7 @@
 
 ## Live Link of the Project:
 
-[Live Project Link]()
+[Live Project Link](https://business-solution.netlify.app/)
 
 ## Output:
 
