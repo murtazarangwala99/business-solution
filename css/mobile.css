@@ -1,0 +1,129 @@
+@media screen and (max-width:1250px) {
+    .list-items{
+        gap: 2rem;
+    }
+    .hero-one{
+        display: flex;
+        gap: 7rem;
+        flex-direction: column;
+        margin: 3rem 1rem;
+        align-items: center;
+    }
+    .hero-one-left{
+        width: 80%;
+    }
+    .hero-one-right{
+        width: 80%;
+    }
+    .hero-three-content{
+        flex-direction: column;
+    }
+    .hero-three-content-left{
+        margin: 3rem 2rem;
+        width: 80%;
+    }
+    .hero-four{
+        justify-content: center;
+        margin: 3rem 1rem;
+        flex-wrap: wrap;
+    }
+    .hero-four-left{
+        width: 80%;
+    }
+    .hero-four-right{
+        width: 80%;
+        margin: 0 4rem;
+    }
+    .target-img img{
+        margin: 1rem 2rem;
+        width: 80%;
+    }
+    .hero-three-content-right img{
+        margin: 1rem 2rem;
+        width: 80%;
+    }
+    .footer-top{
+        gap:25%;
+    }
+}
+@media screen and (max-width:1120px) {
+    footer{
+        height: fit-content;
+    }
+    .footer-top{
+        gap: 10%;
+    }
+}
+@media screen and (max-width:1044px) {
+    .footer-top-right{
+        margin-left: 8rem;
+    }
+}
+@media screen and (max-width:900px) {
+    .target-data{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-left: 2rem;
+    }
+}
+@media screen and (max-width:655px) {
+    .email-div input{
+        width: 45%;
+        height: 45px;
+        font-size: 16px;
+    }
+    .email-div img{
+        width: 20px;
+        height: 20px;
+    }
+    .hero-btn{
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+    .hero-one-right h2{
+        font-size: 1.5rem;
+    }
+    .hero-one-right p{
+        font-size: 0.9rem;
+    }
+    .hero-three-content-left h2{
+        font-size: 1.5rem;
+    }
+    .hero-three-content-left p{
+        font-size: 0.9rem;
+    }
+    .hero-four-right h2{
+        font-size: 1.5rem;
+    }
+    .hero-four-right p{
+        font-size: 0.9rem;
+    }
+    .team-desc{
+        display: flex;
+        margin: 0 4rem ;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+    .team-desc h2{
+        margin: 0;
+        font-weight: 900;
+        font-size: 1.5rem;
+    }
+    .team-desc p{
+        margin: 0;
+    }
+    .footer-top-left{
+        margin: 4rem;
+    }
+    .footer-bottom{
+        margin: 5rem 0 0 4rem;
+    }
+    .footer-top-right{
+        margin-left: 4rem;
+    }
+    footer hr{
+        width: 70%;
+        margin-left: 4rem;
+    }
+}
